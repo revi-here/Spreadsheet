@@ -23,8 +23,10 @@ Understand the trends from the given Fitbit users dataset and provide insights o
 <b>Average Calories.   
 ![Average Calories](images/histogram_avg_calories.png 'Average Calories')   
   
-## Weekday vs Weekend   
-   
+***Members show a general trend of covering 5miles in 10000 steps burning around 1500 calories on an average.***  
+    
+## Weekday vs Weekend Comparison.  
+     
 <b>Average Distance - Weekday vs Weekend.    
 ![Average Distance](images/Average_distance.png 'Average Distance - Weekday vs Weekend.')    
 <b>Average steps - Weekday vs Weekend.   
@@ -32,16 +34,14 @@ Understand the trends from the given Fitbit users dataset and provide insights o
 <b>Average Calories - Weekday vs Weekend.   
 ![Average Calories](images/Average_Calories.png 'Average Calories - Weekday vs Weekend.')    
       
-***Conclusion***  
-- The above graphs show that the users are more active in weekends(2 days) than weekdays(5 days). 
-
+***The above graphs show that the users are more active in weekends(2 days) than weekdays(5 days).***  
+  
 ## Percent of different active range. 
 ### Active range.  
 ![Active level](images/Active_range_comparison.png 'Active range')   
 - Members in general do very light activities which constitutes around 70% of their overall activities.   
 - Moderate activities constitutes only 10% which can be improved by introducing many challenges of moderate intensity.  
-  
-
+ 
 ## Above average distance.  
 ![Above and Below Average distance ](images/Comparison_Chart.png 'Above and Below Average distance')   
   
