@@ -18,11 +18,11 @@ Understand the trends from the given Fitbit users dataset and provide insights o
 ## Weekday vs Weekend
  
 <b>Average Distance.    
-![Average Distance](images/Comparisaon Chart.png 'Average Distance')  
+![Average Distance](images/Comparisaon_Chart.png 'Average Distance')  
 <b>Average steps 
-![Average Steps](images/Average Steps.png 'Average Steps')  
+![Average Steps](images/Average_Steps.png 'Average Steps')  
 <b>Average Calories 
-![Average Calories](images/Average Calories.png 'Average Calories')  
+![Average Calories](images/Average_Calories.png 'Average Calories')  
 
 ***Conclusion***  
 - The above graphs show that the users are more active in weekends than weekdays. 
