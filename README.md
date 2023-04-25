@@ -33,7 +33,7 @@ Understand the trends from the given Fitbit users dataset and provide insights o
 ![Average Calories](images/Average_Calories.png 'Average Calories - Weekday vs Weekend.')    
       
 ***Conclusion***  
-- The above graphs show that the users are more active in weekends than weekdays. 
+- The above graphs show that the users are more active in weekends(2 days) than weekdays(5 days). 
 
 ## Percent of different active range. 
 ### Active range.  
@@ -45,12 +45,12 @@ Understand the trends from the given Fitbit users dataset and provide insights o
 ## Above average distance.  
 ![Above and Below Average distance ](images/Comparison_Chart.png 'Above and Below Average distance')   
   
-- Members who walks above average distance (5 miles) shows increase in number of steps and number of calories burned.   
+- Members who walks above average distance (5 miles) show increase in number of steps and number of calories burned.   
 
 # Conclusion.  
-  1.Members are more active in weekends.So we can introduce more Challenges/rewards for weekday activity.   
-  2.Very light activity is the most preferred(70%) among users.Promote more moderate intensity activity.  
-  3.More the distance, more calories and more steps.Notification introduced when average distance is reached.  
+  1.Members are more active in weekends. So we can introduce more Challenges/rewards for weekday activity.   
+  2.Very light activity is the most preferred(70%) among users. Promote more moderate intensity activity.  
+  3.More the distance, more calories and more steps. Notification introduced when average distance is reached.  
  
 # Techniques Used.   
    * IF clause.  
