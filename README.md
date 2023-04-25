@@ -21,24 +21,24 @@ Understand the trends from the given Fitbit users dataset and provide insights o
 <b>Average steps.   
 ![Average Steps](images/histogram_avg_steps.png 'Average Steps')   
 <b>Average Calories.   
-![Average Calories](images/histogram_avg_calories.png 'Average Calories')  
-
-## Weekday vs Weekend
- 
+![Average Calories](images/histogram_avg_calories.png 'Average Calories')   
+  
+## Weekday vs Weekend   
+   
 <b>Average Distance - Weekday vs Weekend.    
 ![Average Distance](images/Average_distance.png 'Average Distance - Weekday vs Weekend.')    
 <b>Average steps - Weekday vs Weekend.   
-![Average Steps](images/Average_Steps.png 'Average Steps - Weekday vs Weekend.')   - Weekday vs Weekend.  
+![Average Steps](images/Average_Steps.png 'Average Steps - Weekday vs Weekend.')   - Weekday vs Weekend.    
 <b>Average Calories - Weekday vs Weekend.   
-![Average Calories](images/Average_Calories.png 'Average Calories - Weekday vs Weekend.')  
-    
+![Average Calories](images/Average_Calories.png 'Average Calories - Weekday vs Weekend.')    
+      
 ***Conclusion***  
 - The above graphs show that the users are more active in weekends than weekdays. 
 
 ## Percent of different active range. 
 ### Active range.  
 ![Active level](images/Active_range_comparison.png 'Active range')   
-- Members in general do very light activities which constitutes around 70% of their overall activities.  
+- Members in general do very light activities which constitutes around 70% of their overall activities.   
 - Moderate activities constitutes only 10% which can be improved by introducing many challenges of moderate intensity.  
   
 
