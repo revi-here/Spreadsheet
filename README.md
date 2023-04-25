@@ -28,7 +28,7 @@ Understand the trends from the given Fitbit users dataset and provide insights o
 <b>Average Distance - Weekday vs Weekend.    
 ![Average Distance](images/Average_distance.png 'Average Distance - Weekday vs Weekend.')    
 <b>Average steps - Weekday vs Weekend.   
-![Average Steps](images/Average_Steps.png 'Average Steps - Weekday vs Weekend.')   - Weekday vs Weekend.    
+![Average Steps](images/Average_Steps.png 'Average Steps - Weekday vs Weekend.')  
 <b>Average Calories - Weekday vs Weekend.   
 ![Average Calories](images/Average_Calories.png 'Average Calories - Weekday vs Weekend.')    
       
@@ -42,38 +42,20 @@ Understand the trends from the given Fitbit users dataset and provide insights o
 - Moderate activities constitutes only 10% which can be improved by introducing many challenges of moderate intensity.  
   
 
-### Program Memberships
-![Program Memberships](images/program_compare.png 'Program Memberships')  
+## Above average distance.  
+![Above and Below Average distance ](images/Comparison_Chart.png 'Above and Below Average distance')   
+  
+- Members who walks above average distance (5 miles) shows increase in number of steps and number of calories burned.   
 
-### Group Memberships
-![Group Memberships](images/groups_compare.png 'Group Memberships')  
-We don’t see any significant difference with members who were referred irrespective of whatever area you look into - program, groups, join date, active months.  
-
-## 2.Analyze where the members are coming from , visualization using a map, heatmap, etc. of where the membership is.  
-
-### Members across the world  
-<table>
-<tr>
-<td><img src="images/world.png" alt='World wide membership' width = 500px height = 400px> </td>
-<td><img src="images/country.png" alt='Country wide membership' width = 500px height = 400px> </td>
-</tr>
-<tr>
-<td><img src="images/usa.png" alt='USA membership' width = 500px height = 400px></td>
-<td><img src="images/usa_states.png" alt='USA - state wide membership' width = 500px height = 400px> </td>
-</tr>
-<tr>
-<td><img src="images/india.png" alt='India - state wide membership' width = 500px height = 400px></td>
-<td><img src="images/canada.png" alt='Canada - state wide membership' width = 500px height = 400px> </td>
-</tr>
- <tr>
-<td><img src="images/membercategory_regions.png" alt='Member category across different regions' width = 500px height = 400px></td>
-<td><img src="images/program_regions.png" alt='Program membership across different regions' width = 500px height = 400px> </td>
-</tr>
-</table>
-
-# Final Conclusion.   
-* Referred members don’t bring in any significant improvement.
-* New members joining is in its lowest(10 - 20) since Apr2022.
-* Members who are less active (0-4 months) is higher since Jun2022.
-* Members from Asian(except India) and European communities which have high startup community are very low .
+# Conclusion.  
+  1.Members are more active in weekends.So we can introduce more Challenges/rewards for weekday activity.   
+  2.Very light activity is the most preferred(70%) among users.Promote more moderate intensity activity.  
+  3.More the distance, more calories and more steps.Notification introduced when average distance is reached.  
+ 
+# Techniques Used.   
+   * IF clause.  
+   * Conditional formatting.  
+   * Pivot table.  
+   * VLOOKUP.   
+   * Charts.
 
