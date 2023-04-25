@@ -23,8 +23,8 @@ Understand the trends from the given Fitbit users dataset and provide insights o
 <b>Average Calories.   
 ![Average Calories](images/histogram_avg_calories.png 'Average Calories')   
   
-***Members show a general trend of covering 5miles in 10000 steps burning around 1500 calories on an average.***  
-    
+Members show a general trend of covering 5miles in 10000 steps burning around 1500 calories on an average.  
+      
 ## Weekday vs Weekend Comparison.  
      
 <b>Average Distance - Weekday vs Weekend.    
@@ -34,7 +34,7 @@ Understand the trends from the given Fitbit users dataset and provide insights o
 <b>Average Calories - Weekday vs Weekend.   
 ![Average Calories](images/Average_Calories.png 'Average Calories - Weekday vs Weekend.')    
       
-***The above graphs show that the users are more active in weekends(2 days) than weekdays(5 days).***  
+The above graphs show that the users are more active in weekends(2 days) than weekdays(5 days).   
   
 ## Percent of different active range. 
 ### Active range.  
