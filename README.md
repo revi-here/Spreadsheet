@@ -3,7 +3,7 @@
 
 Understand the trends from the given Fitbit users dataset and provide insights on various features to help the marketing team of Bellabeat.
 
-![Bellabeat](images/BB-Logo.jpg 'Bellabeat')   
+![Bellabeat](images/BB-Logo.png 'Bellabeat')   
 
 *** 
 ## Resources  
