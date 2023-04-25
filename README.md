@@ -23,7 +23,7 @@ Understand the trends from the given Fitbit users dataset and provide insights o
 <b>Average Calories.   
 ![Average Calories](images/histogram_avg_calories.png 'Average Calories')   
   
-Members show a general trend of covering 5miles in 10000 steps burning around 1500 calories on an average.  
+Members show a general trend of covering 5 miles in 10000 steps and burning around 1500 calories on an average.  
       
 ## Weekday vs Weekend Comparison.  
      
