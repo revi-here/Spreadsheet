@@ -3,19 +3,19 @@
 
 Understand the trends from the given Fitbit users dataset and provide insights on various features to help the marketing team of Bellabeat.
 
-![Prepare4VC](images/prepare4vc.jpg 'Prepare4VC')   
+![Bellabeat](images/BB-Logo.jpg 'Bellabeat')   
 
 *** 
 ## Resources  
-1.Data Source   : FitBit Fitness Tracker Data (CC0: Public Domain, dataset made available through Mobius): T   
+1.Data Source   : FitBit Fitness Tracker Data (CC0: Public Domain, dataset made available through Mobius):  
 2.Data analysis : Google sheets  
-3.Visualisation : Google sheets 
+3.Visualisation : Google sheets  
   
 ***
 # Exploratory Data Analysis.  
 
 ## Understanding the trends.  
-# Weekday vs Weekend
+## Weekday vs Weekend
  
 <b>Average Distance.    
 ![Average Distance](images/Average distance.png 'Average Distance')  
