@@ -18,7 +18,7 @@ Understand the trends from the given Fitbit users dataset and provide insights o
 ## Weekday vs Weekend
  
 <b>Average Distance.    
-![Average Distance](images/Average distance.png 'Average Distance')  
+![Average Distance](images/BB-Logo.png 'Average Distance')  
 <b>Average steps 
 ![Average Steps](images/Average Steps.png 'Average Steps')  
 <b>Average Calories 
